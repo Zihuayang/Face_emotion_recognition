@@ -25,6 +25,6 @@ And comment #30
 	
 Next, go down to line #60 and give it a name
 cv2.imwrite("happytest1.jpg", img)
-Then run the code.
+Then, run the code.
 A happytest1.jpg file will be created.
  
